@@ -1,0 +1,7 @@
+.Box-color {
+  height: 80px;
+  width: 80px;
+  display: inline-block;
+  margin-left: 10px;
+  border: solid black 2px;
+}
